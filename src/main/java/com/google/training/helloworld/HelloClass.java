@@ -7,7 +7,7 @@ public class HelloClass {
     }
 
     public HelloClass (String name) {
-        this.message = "Hello " + name + "!";
+        message = "Hello " + name + "!";
     }
 
     public String getMessage() {

@@ -1,7 +1,7 @@
 package com.google.training.helloworld;
 
 public class HelloClass {
-    public String message = "Hello World";
+    public String message = "Hello Endpoints";
 
     public HelloClass () {
     }
